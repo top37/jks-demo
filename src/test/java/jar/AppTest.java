@@ -18,7 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-        System.out.prvntln("heheheh");
+        System.out.println("heheheh");
     }
 
     /**
@@ -35,6 +35,6 @@ public class AppTest
     public void testApp()
     {
     		System.out.println("intest");
-        assertTrue( true );
+        assertTrue( false );
     }
 }
